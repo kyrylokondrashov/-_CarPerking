@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\BSA_homework\BSA_homework\bin\Debug\BSA_homework.exe.config
+c:\users\user\documents\visual studio 2015\Projects\BSA_homework\BSA_homework\bin\Debug\BSA_homework.exe
+c:\users\user\documents\visual studio 2015\Projects\BSA_homework\BSA_homework\bin\Debug\BSA_homework.pdb
+c:\users\user\documents\visual studio 2015\Projects\BSA_homework\BSA_homework\obj\Debug\BSA_homework.exe
+c:\users\user\documents\visual studio 2015\Projects\BSA_homework\BSA_homework\obj\Debug\BSA_homework.pdb
+c:\users\user\documents\visual studio 2015\Projects\BSA_homework\BSA_homework\obj\Debug\BSA_homework.csprojResolveAssemblyReference.cache
